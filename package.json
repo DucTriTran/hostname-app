@@ -1,0 +1,11 @@
+{
+  "name": "hostname-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/DucTriTran/hostname-app.git",
+  "author": "Tri Tran <tranductri194.09@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
